@@ -16,7 +16,7 @@ body {
     user-select: none; */
 
     /* max-height: 500px; Set the maximum height for the page */
-    overflow-y: auto; 
+    /* overflow-y: auto;  */
 }
 
 .about {
@@ -26,7 +26,7 @@ body {
 }
 
 .about_content{
-    margin-top: 200px;
+    margin-top: 70px;
 }
 
 
@@ -65,7 +65,7 @@ body {
 }
 
 .yspace{
-    height:200px;
+    height:50px;
 }
 .email{
     font-size: 12px;
@@ -361,7 +361,6 @@ a:hover {
     /* animate the dashed rotate */
     animation: dashed 1s nfinite;
 
-
 }
 
 .border {
@@ -380,7 +379,7 @@ a:hover {
             100% {
                 background-position: 300px 0px, 0px 116px, 0px 0px, 216px 150px;
             }
-        }  
+        }
 
 
         
